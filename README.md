@@ -1,10 +1,10 @@
-# 👋 I'm Marcel Kańdula!  
+# 👋 Hello there!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building cool projects and learning new technologies.  
+I'm Marcel and I welcome you to my GitHub profile! I'm a enthusiastic developer who loves building cool projects and learning new technologies.  
 
 ## 🚀 About Me  
-🔹 Computer science student 
-🔹 Interested in machine learning, software engineering, and computer vision
+🔹 Computer science student  
+🔹 Interested in machine learning, software engineering, and computer vision  
 🔹 Always exploring new ideas and improving my skills  
 
 ## 🛠 Tech Stack  
@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ## 📫 Get In Touch
 🔗 [LinkedIn](https://www.linkedin.com/in/marcel-kańduła-600269244/)  
-✉️ [E-mail](marcelkandula8@gmail.com)
+✉️ marcelkandula8@gmail.com
 
