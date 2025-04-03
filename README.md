@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 I'm Marcel Kańdula!  
 
-<!--
-**marcelkandula/marcelkandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building cool projects and learning new technologies.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+🔹 Computer science student 
+🔹 Interested in machine learning, software engineering, and computer vision
+🔹 Always exploring new ideas and improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+💻 Languages: [Python, C/C++]  
+🛠 Tools & Frameworks: [PyTorch, PyData stack, OpenCV]  
+
+
+## 📫 Get In Touch
+🔗 [LinkedIn](https://www.linkedin.com/in/marcel-kańduła-600269244/)  
+✉️ [E-mail](marcelkandula8@gmail.com)
+
