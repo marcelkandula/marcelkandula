@@ -3,6 +3,7 @@
 I'm Marcel and I welcome you to my GitHub profile! I'm a enthusiastic developer who loves building cool projects and learning new technologies.  
 
 ## 🚀 About Me  
+🔹 Machine Learning Engineer
 🔹 Computer science student  
 🔹 Interested in machine learning, software engineering, and computer vision  
 🔹 Always exploring new ideas and improving my skills  
